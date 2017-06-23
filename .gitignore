@@ -1,0 +1,9 @@
+/node_modules
+/dysk google/react
+bundle.js
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
